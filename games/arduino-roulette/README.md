@@ -13,5 +13,5 @@
 - 1x **Potentiometer**
 
 ## Diagrams
-![diagram](/diagram.png/)
+![diagram](diagram.png)
 Diagrams generated through [Tinkercad](https://www.tinkercad.com/)
