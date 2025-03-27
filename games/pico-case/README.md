@@ -12,7 +12,7 @@ Each colour on the neopixel LED corresponds to a CS2 skin rarity.
 If the green LED lights up, the skin you have rolled is StatTrak.
 
 ## Odds
-| Rarity            | Colour | Chance (%) | Chance (X in y) |
+| Rarity            | Colour | Chance (%) | Chance (X in Y) |
 | ----------------- | ------ | ---------- | --------------- |
 | Mil-Spec          | Blue   | 79.92%     | 4 in 5          |
 | Restricted        | Purple | 15.98%     | 1 in 6          |
